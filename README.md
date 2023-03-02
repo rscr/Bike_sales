@@ -8,4 +8,7 @@ I have created a Pivot table to have a better overview, and a Dashboard to see t
 
 The problem i want to solve:
 
-To see how many bikes are being purchased around the world base on Location, Salary, Commute distance, Age and Education
+To see how many bikes are being purchased around the world base on Location, Salary, Commute distance, Age and Education.
+If some of these factors have a relevant impact on people buying Bikes.
+
+
